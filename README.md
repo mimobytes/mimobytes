@@ -12,7 +12,6 @@ I have a love for backend and desktop apps. Although my specialty is in building
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" alt="Python" />
   <!-- UI -->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height="22" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" height="22" alt="Blazor" />
   <!-- Low Level -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22" alt="PyTorch" />
   
@@ -22,5 +21,4 @@ I have a love for backend and desktop apps. Although my specialty is in building
   <!-- Backend / DB -->
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="22" alt="Firebase" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="22" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="22" alt="Dart" />
 </p>
