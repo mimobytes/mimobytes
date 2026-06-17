@@ -1,6 +1,6 @@
 > A sleep-deprived first-year CSE student currently hyperfixated on **[Arcane](https://www.netflix.com/in/title/81435684) <3**.
 
-I have a love for backend and desktop apps. Although my specialty is in building highly optimized web crawlers and scrapers. <br>I enjoy game modding and pentesting in my free time.
+I have a love for backend and tui apps. Although my specialty is in building highly optimized web crawlers and scrapers. <br>I enjoy game modding and pentesting in my free time.
 
 **Experienced in —**
 
