@@ -11,6 +11,7 @@ I have a love for backend and tui apps. Although my specialty is in building hig
   <img src="https://img.shields.io/badge/Elixir-violet?style=flat-square&logo=Elixir&logoColor=purple" height="22" alt="Elixir" />
   <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white" height="22" alt="Rust" />
   <img src="https://img.shields.io/badge/R-white?style=flat-square&logo=R&logoColor=black" height="22" alt="R" />
+  <img src="https://img.shields.io/badge/4chan-Green?style=flat-square" height="22" alt="4chan" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" alt="Python" />
   <!-- UI -->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height="22" alt="Vue.js" />
@@ -23,4 +24,6 @@ I have a love for backend and tui apps. Although my specialty is in building hig
   <!-- Backend / DB -->
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="22" alt="Firebase" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="22" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="22" alt="n8n" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="22" alt="Redis" />
 </p>
