@@ -8,6 +8,7 @@ I have a love for backend and tui apps. Although my specialty is in building hig
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="22" alt="Go" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="22" alt="C#" />
+  <img src="https://img.shields.io/badge/Elixir-violet?style=flat-square&logo=Elixir&logoColor=purple" height="22" alt="Elixir" />
   <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white" height="22" alt="Rust" />
   <img src="https://img.shields.io/badge/R-white?style=flat-square&logo=R&logoColor=black" height="22" alt="R" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" alt="Python" />
