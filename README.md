@@ -1,7 +1,7 @@
 > CSE undergrad building backend services, native desktop apps, and systems tooling.  
 > Currently hyperfixated on **[Arcane](https://www.netflix.com/in/title/81435684) <3**.
 
-Most of my time goes into **Go**, **.NET**, reverse engineering, and experimenting with **ONNX Runtimes** & machine learning.
+Most of my time goes into **Go**, **.NET**, Reverse engineering, and experimenting with **ONNX Runtimes** & machine learning.
 
 <br>
 
